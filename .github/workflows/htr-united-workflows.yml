@@ -20,7 +20,7 @@ jobs:
           pip install htruc
       - name: Run HTRUC
         run: |
-          htruc test vtm-htr-registre-foncier.yml
+          htruc test htr-united.yml
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     env:
@@ -56,7 +56,7 @@ jobs:
           anybadge --value=${{ env.HTRUNITED_FILES }} --file=badges/files.svg --label="XML Files" --color=#007ec6 --overwrite --template=${{ steps.get.outputs.file }}
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add vtm-htr-registre-foncier.yml ./badges/
+          git add htr-united.yml ./badges/
           git commit -m "[Automatic] Update the Catalog & the Badges" || echo "Nothing to commit"
           git push || echo "Nothing to push"
   ChocoMufin:
