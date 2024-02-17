@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: Payot
+    given-names: Christine
+    email: christine.payot@etu.unige.ch
+    affiliation: University of Geneva
+    orcid: https://orcid.org/0000-0002-2499-229X
+title: "Data repository for HTR model training"
+keywords:
+  - HTR
+  - french
+  - manuscript
+  - prints
+version: 0.0.1
+date-released: 2024-02-17
+license: cc-by-nc-4.0
