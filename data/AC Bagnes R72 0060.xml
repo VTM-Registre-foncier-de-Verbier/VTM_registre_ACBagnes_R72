@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT934" LABEL="CustomZone:Contribuable" DESCRIPTION="block type CustomZone:Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone:Header" DESCRIPTION="block type CustomZone:Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
+    <OtherTag ID="BT934" LABEL="CustomZone::Contribuable" DESCRIPTION="block type CustomZone::Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone::Header" DESCRIPTION="block type CustomZone::Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
     <OtherTag ID="LT353" LABEL="CustomLine:Capital" DESCRIPTION="line type CustomLine:Capital"/><OtherTag ID="LT354" LABEL="CustomLine:ClassTaxe" DESCRIPTION="line type CustomLine:ClassTaxe"/><OtherTag ID="LT355" LABEL="CustomLine:Contenance" DESCRIPTION="line type CustomLine:Contenance"/><OtherTag ID="LT356" LABEL="CustomLine:Nature" DESCRIPTION="line type CustomLine:Nature"/><OtherTag ID="LT357" LABEL="CustomLine:NomLocal" DESCRIPTION="line type CustomLine:NomLocal"/><OtherTag ID="LT358" LABEL="CustomLine:Numero" DESCRIPTION="line type CustomLine:Numero"/><OtherTag ID="LT359" LABEL="CustomLine:PrixAuMetre" DESCRIPTION="line type CustomLine:PrixAuMetre"/><OtherTag ID="LT360" LABEL="CustomLine:confins" DESCRIPTION="line type CustomLine:confins"/><OtherTag ID="LT361" LABEL="CustomLine:date" DESCRIPTION="line type CustomLine:date"/><OtherTag ID="LT362" LABEL="CustomLine:mutations" DESCRIPTION="line type CustomLine:mutations"/><OtherTag ID="LT363" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT364" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
   </Tags>
   
@@ -178,7 +178,7 @@
                     WIDTH="2451"
                     HEIGHT="117">
             <Shape><Polygon POINTS="1340 164 3781 180 3791 175 3786 63 1345 63 1345 143"/></Shape>
-	    <String CONTENT="REGISTRE DE L&#39;IMPOT SUR LES BIENS-FONDS."
+	    <String CONTENT=""
                     HPOS="1340"
                     VPOS="63"
                     WIDTH="2451"
@@ -1701,13 +1701,13 @@
           
           
           <TextLine ID="eSc_line_1a3f172a"
-                    
+                    TAGREFS="LT360"
                     BASELINE="1185 2290 1962 2280" 
                     HPOS="1175"
                     VPOS="2211"
                     WIDTH="782"
                     HEIGHT="148">
-            <Shape><Polygon POINTS="1919 2216 1866 2216 1824 2211 1175 2216 1180 2285 1185 2359 1302 2301 1499 2301 1536 2333 1536 2338 1542 2338 1547 2338 1552 2338 1653 2322 1691 2343 1696 2349 1701 2349 1707 2349 1712 2349 1951 2333 1957 2274 1941 2216 1919 2216"/></Shape>
+            <Shape><Polygon POINTS="1866 2216 1824 2211 1175 2216 1180 2285 1185 2359 1302 2301 1499 2301 1536 2333 1536 2338 1542 2338 1547 2338 1552 2338 1653 2322 1691 2343 1696 2349 1701 2349 1707 2349 1712 2349 1951 2333 1957 2274 1941 2216 1919 2216"/></Shape>
 	    <String CONTENT="Est Un chemin"
                     HPOS="1175"
                     VPOS="2211"

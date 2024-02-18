@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT934" LABEL="CustomZone:Contribuable" DESCRIPTION="block type CustomZone:Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone:Header" DESCRIPTION="block type CustomZone:Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
+    <OtherTag ID="BT934" LABEL="CustomZone::Contribuable" DESCRIPTION="block type CustomZone::Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone::Header" DESCRIPTION="block type CustomZone::Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
     <OtherTag ID="LT353" LABEL="CustomLine:Capital" DESCRIPTION="line type CustomLine:Capital"/><OtherTag ID="LT354" LABEL="CustomLine:ClassTaxe" DESCRIPTION="line type CustomLine:ClassTaxe"/><OtherTag ID="LT355" LABEL="CustomLine:Contenance" DESCRIPTION="line type CustomLine:Contenance"/><OtherTag ID="LT356" LABEL="CustomLine:Nature" DESCRIPTION="line type CustomLine:Nature"/><OtherTag ID="LT357" LABEL="CustomLine:NomLocal" DESCRIPTION="line type CustomLine:NomLocal"/><OtherTag ID="LT358" LABEL="CustomLine:Numero" DESCRIPTION="line type CustomLine:Numero"/><OtherTag ID="LT359" LABEL="CustomLine:PrixAuMetre" DESCRIPTION="line type CustomLine:PrixAuMetre"/><OtherTag ID="LT360" LABEL="CustomLine:confins" DESCRIPTION="line type CustomLine:confins"/><OtherTag ID="LT361" LABEL="CustomLine:date" DESCRIPTION="line type CustomLine:date"/><OtherTag ID="LT362" LABEL="CustomLine:mutations" DESCRIPTION="line type CustomLine:mutations"/><OtherTag ID="LT363" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT364" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
   </Tags>
   
@@ -663,7 +663,7 @@
                     VPOS="866"
                     WIDTH="212"
                     HEIGHT="133">
-            <Shape><Polygon POINTS="255 935 255 999 467 999 467 935 462 866 255 871 255 935"/></Shape>
+            <Shape><Polygon POINTS="255 999 467 999 467 935 462 866 255 871 255 935"/></Shape>
 	    <String CONTENT="Commune."
                     HPOS="255"
                     VPOS="866"
@@ -1547,7 +1547,7 @@
                     VPOS="2009"
                     WIDTH="186"
                     HEIGHT="372">
-            <Shape><Polygon POINTS="3297 2216 3297 2381 3483 2370 3483 2216 3472 2009 3297 2067 3297 2216"/></Shape>
+            <Shape><Polygon POINTS="3297 2381 3483 2370 3483 2216 3472 2009 3297 2067 3297 2216"/></Shape>
 	    <String CONTENT="4536"
                     HPOS="3297"
                     VPOS="2009"
@@ -1711,13 +1711,13 @@
           
           
           <TextLine ID="eSc_line_d1a51226"
-                    
+                    TAGREFS="LT353"
                     BASELINE="3302 2347 3473 2349" 
                     HPOS="3297"
                     VPOS="2221"
                     WIDTH="175"
                     HEIGHT="160">
-            <Shape><Polygon POINTS="3297 2343 3297 2381 3472 2365 3472 2343 3467 2221 3297 2237 3297 2343"/></Shape>
+            <Shape><Polygon POINTS="3297 2381 3472 2365 3472 2343 3467 2221 3297 2237 3297 2343"/></Shape>
 	    <String CONTENT="6048"
                     HPOS="3297"
                     VPOS="2221"

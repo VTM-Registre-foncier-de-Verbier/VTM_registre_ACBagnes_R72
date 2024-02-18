@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT934" LABEL="CustomZone:Contribuable" DESCRIPTION="block type CustomZone:Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone:Header" DESCRIPTION="block type CustomZone:Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
+    <OtherTag ID="BT934" LABEL="CustomZone::Contribuable" DESCRIPTION="block type CustomZone::Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone::Header" DESCRIPTION="block type CustomZone::Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
     <OtherTag ID="LT353" LABEL="CustomLine:Capital" DESCRIPTION="line type CustomLine:Capital"/><OtherTag ID="LT354" LABEL="CustomLine:ClassTaxe" DESCRIPTION="line type CustomLine:ClassTaxe"/><OtherTag ID="LT355" LABEL="CustomLine:Contenance" DESCRIPTION="line type CustomLine:Contenance"/><OtherTag ID="LT356" LABEL="CustomLine:Nature" DESCRIPTION="line type CustomLine:Nature"/><OtherTag ID="LT357" LABEL="CustomLine:NomLocal" DESCRIPTION="line type CustomLine:NomLocal"/><OtherTag ID="LT358" LABEL="CustomLine:Numero" DESCRIPTION="line type CustomLine:Numero"/><OtherTag ID="LT359" LABEL="CustomLine:PrixAuMetre" DESCRIPTION="line type CustomLine:PrixAuMetre"/><OtherTag ID="LT360" LABEL="CustomLine:confins" DESCRIPTION="line type CustomLine:confins"/><OtherTag ID="LT361" LABEL="CustomLine:date" DESCRIPTION="line type CustomLine:date"/><OtherTag ID="LT362" LABEL="CustomLine:mutations" DESCRIPTION="line type CustomLine:mutations"/><OtherTag ID="LT363" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT364" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
   </Tags>
   
@@ -35,13 +35,13 @@
           
           
           <TextLine ID="eSc_line_b54f9065"
-                    
+                    TAGREFS="LT363"
                     BASELINE="2821 993 2953 997" 
                     HPOS="2813"
                     VPOS="946"
                     WIDTH="138"
                     HEIGHT="79">
-            <Shape><Polygon POINTS="2924 946 2871 946 2818 946 2818 988 2813 1025 2946 1025 2951 993 2946 946 2924 946"/></Shape>
+            <Shape><Polygon POINTS="2871 946 2818 946 2818 988 2813 1025 2946 1025 2951 993 2946 946 2924 946"/></Shape>
 	    <String CONTENT="locale."
                     HPOS="2813"
                     VPOS="946"

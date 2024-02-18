@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT934" LABEL="CustomZone:Contribuable" DESCRIPTION="block type CustomZone:Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone:Header" DESCRIPTION="block type CustomZone:Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
+    <OtherTag ID="BT934" LABEL="CustomZone::Contribuable" DESCRIPTION="block type CustomZone::Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone::Header" DESCRIPTION="block type CustomZone::Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
     <OtherTag ID="LT353" LABEL="CustomLine:Capital" DESCRIPTION="line type CustomLine:Capital"/><OtherTag ID="LT354" LABEL="CustomLine:ClassTaxe" DESCRIPTION="line type CustomLine:ClassTaxe"/><OtherTag ID="LT355" LABEL="CustomLine:Contenance" DESCRIPTION="line type CustomLine:Contenance"/><OtherTag ID="LT356" LABEL="CustomLine:Nature" DESCRIPTION="line type CustomLine:Nature"/><OtherTag ID="LT357" LABEL="CustomLine:NomLocal" DESCRIPTION="line type CustomLine:NomLocal"/><OtherTag ID="LT358" LABEL="CustomLine:Numero" DESCRIPTION="line type CustomLine:Numero"/><OtherTag ID="LT359" LABEL="CustomLine:PrixAuMetre" DESCRIPTION="line type CustomLine:PrixAuMetre"/><OtherTag ID="LT360" LABEL="CustomLine:confins" DESCRIPTION="line type CustomLine:confins"/><OtherTag ID="LT361" LABEL="CustomLine:date" DESCRIPTION="line type CustomLine:date"/><OtherTag ID="LT362" LABEL="CustomLine:mutations" DESCRIPTION="line type CustomLine:mutations"/><OtherTag ID="LT363" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT364" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
   </Tags>
   
@@ -1949,13 +1949,13 @@
           
           
           <TextLine ID="eSc_line_30bd41ed"
-                    
+                    TAGREFS="LT362"
                     BASELINE="147 3747 300 3756" 
                     HPOS="141"
                     VPOS="3551"
                     WIDTH="157"
                     HEIGHT="223">
-            <Shape><Polygon POINTS="146 3741 141 3774 293 3774 298 3752 293 3551 152 3584 146 3741"/></Shape>
+            <Shape><Polygon POINTS="141 3774 293 3774 298 3752 293 3551 152 3584 146 3741"/></Shape>
 	    <String CONTENT="S"
                     HPOS="141"
                     VPOS="3551"
@@ -2170,13 +2170,13 @@
           
           
           <TextLine ID="eSc_line_83997333"
-                    
+                    TAGREFS="LT362"
                     BASELINE="136 4262 252 4275" 
                     HPOS="125"
                     VPOS="4100"
                     WIDTH="141"
                     HEIGHT="222">
-            <Shape><Polygon POINTS="135 4257 125 4322 239 4322 250 4274 266 4100 152 4100 135 4257"/></Shape>
+            <Shape><Polygon POINTS="125 4322 239 4322 250 4274 266 4100 152 4100 135 4257"/></Shape>
 	    <String CONTENT="Er"
                     HPOS="125"
                     VPOS="4100"
@@ -2408,13 +2408,13 @@
           
           
           <TextLine ID="eSc_line_cc1cc271"
-                    
+                    TAGREFS="LT362"
                     BASELINE="130 4790 239 4807" 
                     HPOS="119"
                     VPOS="4719"
                     WIDTH="120"
                     HEIGHT="92">
-            <Shape><Polygon POINTS="125 4789 119 4806 222 4811 233 4806 239 4730 130 4719 125 4789"/></Shape>
+            <Shape><Polygon POINTS="119 4806 222 4811 233 4806 239 4730 130 4719 125 4789"/></Shape>
 	    <String CONTENT="C"
                     HPOS="119"
                     VPOS="4719"
@@ -2629,13 +2629,13 @@
           
           
           <TextLine ID="eSc_line_dfdbd543"
-                    
+                    TAGREFS="LT362"
                     BASELINE="126 5301 232 5298" 
                     HPOS="114"
                     VPOS="5153"
                     WIDTH="114"
                     HEIGHT="174">
-            <Shape><Polygon POINTS="125 5300 125 5316 222 5327 228 5295 211 5153 114 5170 125 5300"/></Shape>
+            <Shape><Polygon POINTS="125 5316 222 5327 228 5295 211 5153 114 5170 125 5300"/></Shape>
 	    <String CONTENT="C"
                     HPOS="114"
                     VPOS="5153"

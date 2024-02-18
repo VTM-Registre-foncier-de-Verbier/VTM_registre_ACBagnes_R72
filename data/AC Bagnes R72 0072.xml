@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT934" LABEL="CustomZone:Contribuable" DESCRIPTION="block type CustomZone:Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone:Header" DESCRIPTION="block type CustomZone:Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
+    <OtherTag ID="BT934" LABEL="CustomZone::Contribuable" DESCRIPTION="block type CustomZone::Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone::Header" DESCRIPTION="block type CustomZone::Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
     <OtherTag ID="LT353" LABEL="CustomLine:Capital" DESCRIPTION="line type CustomLine:Capital"/><OtherTag ID="LT354" LABEL="CustomLine:ClassTaxe" DESCRIPTION="line type CustomLine:ClassTaxe"/><OtherTag ID="LT355" LABEL="CustomLine:Contenance" DESCRIPTION="line type CustomLine:Contenance"/><OtherTag ID="LT356" LABEL="CustomLine:Nature" DESCRIPTION="line type CustomLine:Nature"/><OtherTag ID="LT357" LABEL="CustomLine:NomLocal" DESCRIPTION="line type CustomLine:NomLocal"/><OtherTag ID="LT358" LABEL="CustomLine:Numero" DESCRIPTION="line type CustomLine:Numero"/><OtherTag ID="LT359" LABEL="CustomLine:PrixAuMetre" DESCRIPTION="line type CustomLine:PrixAuMetre"/><OtherTag ID="LT360" LABEL="CustomLine:confins" DESCRIPTION="line type CustomLine:confins"/><OtherTag ID="LT361" LABEL="CustomLine:date" DESCRIPTION="line type CustomLine:date"/><OtherTag ID="LT362" LABEL="CustomLine:mutations" DESCRIPTION="line type CustomLine:mutations"/><OtherTag ID="LT363" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT364" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
   </Tags>
   
@@ -357,7 +357,7 @@
                     VPOS="361"
                     WIDTH="3355"
                     HEIGHT="202">
-            <Shape><Polygon POINTS="622 499 622 542 3004 526 3286 526 3334 552 3355 563 3361 563 3366 563 3371 563 3398 552 3462 531 3967 552 3977 520 3977 419 3887 372 3882 372 3743 372 3738 372 3733 372 3727 372 3685 409 3648 377 3642 377 3637 377 3451 372 3446 372 3440 372 3435 372 3392 403 3089 366 3084 366 3079 366 3073 366 2999 414 2988 419 2653 419 2637 409 2531 366 2526 366 2520 366 2201 403 2143 409 2127 403 2031 361 2026 361 2020 361 2015 361 2010 361 1951 398 1935 414 1818 414 1797 398 1723 361 1717 361 1712 361 1707 361 1637 398 1616 409 1590 398 1552 382 1547 382 1542 382 1340 393 1159 403 1132 393 1095 366 1090 366 1084 366 1079 366 1074 366 1068 366 1031 387 1010 403 983 387 946 372 941 372 935 372 930 372 925 372 904 387 872 403 622 387 622 499"/></Shape>
+            <Shape><Polygon POINTS="622 542 3004 526 3286 526 3334 552 3355 563 3361 563 3366 563 3371 563 3398 552 3462 531 3967 552 3977 520 3977 419 3887 372 3882 372 3743 372 3738 372 3733 372 3727 372 3685 409 3648 377 3642 377 3637 377 3451 372 3446 372 3440 372 3435 372 3392 403 3089 366 3084 366 3079 366 3073 366 2999 414 2988 419 2653 419 2637 409 2531 366 2526 366 2520 366 2201 403 2143 409 2127 403 2031 361 2026 361 2020 361 2015 361 2010 361 1951 398 1935 414 1818 414 1797 398 1723 361 1717 361 1712 361 1707 361 1637 398 1616 409 1590 398 1552 382 1547 382 1542 382 1340 393 1159 403 1132 393 1095 366 1090 366 1084 366 1079 366 1074 366 1068 366 1031 387 1010 403 983 387 946 372 941 372 935 372 930 372 925 372 904 387 872 403 622 387 622 499"/></Shape>
 	    <String CONTENT="Nom du Contribuable Bruchez J^n. Pierre fils de J^n. Pierre"
                     HPOS="622"
                     VPOS="361"
@@ -402,13 +402,13 @@
           
           
           <TextLine ID="eSc_line_123fd8ab"
-                    
+                    TAGREFS="LT363"
                     BASELINE="624 640 2012 640" 
                     HPOS="622"
                     VPOS="526"
                     WIDTH="1388"
                     HEIGHT="154">
-            <Shape><Polygon POINTS="622 637 622 669 2004 680 2010 637 2010 558 622 526 622 637"/></Shape>
+            <Shape><Polygon POINTS="622 669 2004 680 2010 637 2010 558 622 526 622 637"/></Shape>
 	    <String CONTENT="domicilié à Verbier, Bagnes"
                     HPOS="622"
                     VPOS="526"
@@ -844,7 +844,7 @@
           
           
           <TextLine ID="eSc_line_343c437b"
-                    
+                    TAGREFS="LT363"
                     BASELINE="2843 988 2978 986" 
                     HPOS="2839"
                     VPOS="914"

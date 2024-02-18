@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT934" LABEL="CustomZone:Contribuable" DESCRIPTION="block type CustomZone:Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone:Header" DESCRIPTION="block type CustomZone:Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
+    <OtherTag ID="BT934" LABEL="CustomZone::Contribuable" DESCRIPTION="block type CustomZone::Contribuable"/><OtherTag ID="BT935" LABEL="CustomZone:entry#1" DESCRIPTION="block type CustomZone:entry#1"/><OtherTag ID="BT936" LABEL="CustomZone:entry#2" DESCRIPTION="block type CustomZone:entry#2"/><OtherTag ID="BT937" LABEL="CustomZone::Header" DESCRIPTION="block type CustomZone::Header"/><OtherTag ID="BT938" LABEL="Pagination" DESCRIPTION="block type Pagination"/><OtherTag ID="BT1019" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1020" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1021" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1022" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1023" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
     <OtherTag ID="LT353" LABEL="CustomLine:Capital" DESCRIPTION="line type CustomLine:Capital"/><OtherTag ID="LT354" LABEL="CustomLine:ClassTaxe" DESCRIPTION="line type CustomLine:ClassTaxe"/><OtherTag ID="LT355" LABEL="CustomLine:Contenance" DESCRIPTION="line type CustomLine:Contenance"/><OtherTag ID="LT356" LABEL="CustomLine:Nature" DESCRIPTION="line type CustomLine:Nature"/><OtherTag ID="LT357" LABEL="CustomLine:NomLocal" DESCRIPTION="line type CustomLine:NomLocal"/><OtherTag ID="LT358" LABEL="CustomLine:Numero" DESCRIPTION="line type CustomLine:Numero"/><OtherTag ID="LT359" LABEL="CustomLine:PrixAuMetre" DESCRIPTION="line type CustomLine:PrixAuMetre"/><OtherTag ID="LT360" LABEL="CustomLine:confins" DESCRIPTION="line type CustomLine:confins"/><OtherTag ID="LT361" LABEL="CustomLine:date" DESCRIPTION="line type CustomLine:date"/><OtherTag ID="LT362" LABEL="CustomLine:mutations" DESCRIPTION="line type CustomLine:mutations"/><OtherTag ID="LT363" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT364" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
   </Tags>
   
@@ -1992,40 +1992,6 @@
         <TextBlock ID="eSc_dummyblock_">
           
           
-          <TextLine ID="eSc_line_24bf4f17"
-                    TAGREFS="LT364"
-                    BASELINE="891 244 3549 294" 
-                    HPOS="880"
-                    VPOS="81"
-                    WIDTH="2663"
-                    HEIGHT="228">
-            <Shape><Polygon POINTS="880 276 3532 309 3543 293 3543 135 885 81 885 238"/></Shape>
-	    <String CONTENT="REGISTRE DE L&#39;IMPOT SUR LES BIENS-FONDS."
-                    HPOS="880"
-                    VPOS="81"
-                    WIDTH="2663"
-                    HEIGHT="228"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_80395fc7"
-                    TAGREFS="LT363"
-                    BASELINE="3652 282 4054 287" 
-                    HPOS="3646"
-                    VPOS="130"
-                    WIDTH="408"
-                    HEIGHT="206">
-            <Shape><Polygon POINTS="3701 130 3652 130 3652 282 3646 314 4043 336 4054 287 4049 152 3782 130 3755 130"/></Shape>
-	    <String CONTENT="FOL. 13"
-                    HPOS="3646"
-                    VPOS="130"
-                    WIDTH="408"
-                    HEIGHT="206"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_c63569b3"
                     TAGREFS="LT363"
                     BASELINE="222 445 391 445" 
@@ -2060,6 +2026,23 @@
 
           
           
+          <TextLine ID="eSc_line_24bf4f17"
+                    TAGREFS="LT364"
+                    BASELINE="891 244 3549 294" 
+                    HPOS="880"
+                    VPOS="81"
+                    WIDTH="2663"
+                    HEIGHT="228">
+            <Shape><Polygon POINTS="880 276 3532 309 3543 293 3543 135 885 81 885 238"/></Shape>
+	    <String CONTENT="REGISTRE DE L&#39;IMPOT SUR LES BIENS-FONDS."
+                    HPOS="880"
+                    VPOS="81"
+                    WIDTH="2663"
+                    HEIGHT="228"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_fa8935fa"
                     TAGREFS="LT363"
                     BASELINE="646 803 1777 820" 
@@ -2073,6 +2056,23 @@
                     VPOS="667"
                     WIDTH="1136"
                     HEIGHT="218"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80395fc7"
+                    TAGREFS="LT363"
+                    BASELINE="3652 282 4054 287" 
+                    HPOS="3646"
+                    VPOS="130"
+                    WIDTH="408"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="3701 130 3652 130 3652 282 3646 314 4043 336 4054 287 4049 152 3782 130 3755 130"/></Shape>
+	    <String CONTENT="FOL. 13"
+                    HPOS="3646"
+                    VPOS="130"
+                    WIDTH="408"
+                    HEIGHT="206"></String>
           </TextLine>
 
           
@@ -2107,6 +2107,74 @@
                     VPOS="847"
                     WIDTH="467"
                     HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1a6efc8"
+                    TAGREFS="LT363"
+                    BASELINE="2951 993 3130 1004" 
+                    HPOS="2945"
+                    VPOS="890"
+                    WIDTH="185"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="2951 993 2945 1026 3119 1031 3130 1004 3130 890 2951 890 2951 993"/></Shape>
+	    <String CONTENT="METRE."
+                    HPOS="2945"
+                    VPOS="890"
+                    WIDTH="185"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2f12fe3"
+                    TAGREFS="LT357"
+                    BASELINE="413 1205 864 1199" 
+                    HPOS="402"
+                    VPOS="1026"
+                    WIDTH="456"
+                    HEIGHT="261">
+            <Shape><Polygon POINTS="407 1200 407 1232 576 1232 581 1232 630 1281 630 1287 635 1287 641 1287 646 1287 853 1238 858 1194 853 1086 739 1048 733 1048 728 1048 722 1048 679 1059 603 1086 554 1042 532 1026 527 1026 521 1026 402 1026 407 1200"/></Shape>
+	    <String CONTENT="Combayon"
+                    HPOS="402"
+                    VPOS="1026"
+                    WIDTH="456"
+                    HEIGHT="261"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15de2946"
+                    TAGREFS="LT360"
+                    BASELINE="907 1308 1618 1318" 
+                    HPOS="896"
+                    VPOS="1200"
+                    WIDTH="718"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="1173 1200 1119 1200 1065 1200 1010 1200 956 1200 902 1200 902 1303 896 1346 1603 1352 1614 1314 1614 1216 1184 1200 1173 1200"/></Shape>
+	    <String CONTENT="Nord Ollier David"
+                    HPOS="896"
+                    VPOS="1200"
+                    WIDTH="718"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7eeb7142"
+                    TAGREFS="LT360"
+                    BASELINE="907 1406 1823 1416" 
+                    HPOS="896"
+                    VPOS="1303"
+                    WIDTH="924"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="1608 1314 1554 1314 1500 1314 1445 1314 1391 1314 1337 1314 1282 1314 1266 1308 902 1314 902 1401 896 1422 1809 1439 1820 1412 1815 1303 1608 1303 1608 1314"/></Shape>
+	    <String CONTENT="Est Bruchez Marguerite"
+                    HPOS="896"
+                    VPOS="1303"
+                    WIDTH="924"
+                    HEIGHT="136"></String>
           </TextLine>
 
           
@@ -2162,23 +2230,6 @@
 
           
           
-          <TextLine ID="eSc_line_b1a6efc8"
-                    TAGREFS="LT363"
-                    BASELINE="2951 993 3130 1004" 
-                    HPOS="2945"
-                    VPOS="890"
-                    WIDTH="185"
-                    HEIGHT="141">
-            <Shape><Polygon POINTS="2951 993 2945 1026 3119 1031 3130 1004 3130 890 2951 890 2951 993"/></Shape>
-	    <String CONTENT="METRE."
-                    HPOS="2945"
-                    VPOS="890"
-                    WIDTH="185"
-                    HEIGHT="141"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_e4da07aa"
                     TAGREFS="LT363"
                     BASELINE="3598 944 4098 955" 
@@ -2192,57 +2243,6 @@
                     VPOS="841"
                     WIDTH="506"
                     HEIGHT="141"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_d2f12fe3"
-                    TAGREFS="LT357"
-                    BASELINE="413 1205 864 1199" 
-                    HPOS="402"
-                    VPOS="1026"
-                    WIDTH="456"
-                    HEIGHT="261">
-            <Shape><Polygon POINTS="407 1200 407 1232 576 1232 581 1232 630 1281 630 1287 635 1287 641 1287 646 1287 853 1238 858 1194 853 1086 739 1048 733 1048 728 1048 722 1048 679 1059 603 1086 554 1042 532 1026 527 1026 521 1026 402 1026 407 1200"/></Shape>
-	    <String CONTENT="Combayon"
-                    HPOS="402"
-                    VPOS="1026"
-                    WIDTH="456"
-                    HEIGHT="261"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_15de2946"
-                    TAGREFS="LT360"
-                    BASELINE="907 1308 1618 1318" 
-                    HPOS="896"
-                    VPOS="1200"
-                    WIDTH="718"
-                    HEIGHT="152">
-            <Shape><Polygon POINTS="1173 1200 1119 1200 1065 1200 1010 1200 956 1200 902 1200 902 1303 896 1346 1603 1352 1614 1314 1614 1216 1184 1200 1173 1200"/></Shape>
-	    <String CONTENT="Nord Ollier David"
-                    HPOS="896"
-                    VPOS="1200"
-                    WIDTH="718"
-                    HEIGHT="152"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_7eeb7142"
-                    TAGREFS="LT360"
-                    BASELINE="907 1406 1823 1416" 
-                    HPOS="896"
-                    VPOS="1303"
-                    WIDTH="924"
-                    HEIGHT="136">
-            <Shape><Polygon POINTS="1608 1314 1554 1314 1500 1314 1445 1314 1391 1314 1337 1314 1282 1314 1266 1308 902 1314 902 1401 896 1422 1809 1439 1820 1412 1815 1303 1608 1303 1608 1314"/></Shape>
-	    <String CONTENT="Est Bruchez Marguerite"
-                    HPOS="896"
-                    VPOS="1303"
-                    WIDTH="924"
-                    HEIGHT="136"></String>
           </TextLine>
 
           
