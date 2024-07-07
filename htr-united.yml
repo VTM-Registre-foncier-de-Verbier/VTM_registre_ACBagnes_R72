@@ -11,86 +11,77 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - o
   - r
+  - o
   - i
   - l
   - s
-  - a
   - u
+  - a
   - d
-  - n
-  - t
   - '0'
+  - t
+  - n
   - '1'
-  - '2'
   - c
-  - .
   - '3'
+  - '2'
+  - '5'
+  - '4'
   - E
   - M
-  - '4'
-  - '5'
-  - S
-  - '9'
-  - N
-  - '6'
-  - f
   - P
+  - S
+  - .
   - h
-  - '['
-  - ']'
+  - N
+  - f
   - '8'
+  - '6'
+  - '9'
   - O
-  - A
-  - m
   - '7'
+  - m
+  - A
   - ́
-  - L
   - C
-  - T
-  - D
+  - L
   - v
-  - p
+  - T
   - I
-  - B
+  - p
+  - D
   - J
-  - b
+  - B
   - F
+  - b
+  - U
   - g
   - ^
-  - R
   - z
-  - ':'
-  - V
+  - R
   - y
-  - U
   - G
   - ̀
-  - "'"
-  - '-'
-  - X
   - x
-  - ̧
-  - ̂
   - '"'
+  - "'"
+  - V
+  - X
+  - '-'
+  - ':'
+  - ̧
   - ','
-  - /
-  - q
-  - )
-  - °
-  - j
   - Z
+  - q
+  - ̂
   - H
-  - (
-  - '?'
-  - '='
-  - _
-  - ̄
-  - k
-  - ¨
-  -  
-  - ;
+  - '['
+  - ']'
+  - <
+  - '>'
+  - j
+  - °
   mode: NFD
 citation-file-link: >-
   https://github.com/VTM-Registre-foncier-de-Verbier/VTM_Depot_entrainement/blob/main/CITATION.cff
@@ -131,13 +122,13 @@ transcription-guidelines: >-
 url: >-
   https://github.com/VTM-Registre-foncier-de-Verbier/VTM_Depot_entrainement/tree/main
 volume:
-- count: 162151
+- count: 17257
   metric: characters
-- count: 90
+- count: 10
   metric: files
-- count: 17979
+- count: 2091
   metric: lines
 - count: 90
   metric: pages
-- count: 1435
+- count: 48
   metric: regions
