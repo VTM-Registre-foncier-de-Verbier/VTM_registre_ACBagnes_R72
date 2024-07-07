@@ -1,0 +1,3 @@
+data/AC_Bagnes_R72_0048.xml
+data/AC_Bagnes_R72_0017.xml
+data/AC_Bagnes_R72_0093.xml
