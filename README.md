@@ -100,7 +100,9 @@ Exemple d'un texte biffé à l'horizontal et transcrit entre double crochets
 Exemple d'un texte biffé à la vertical et qui n'est pas transcrit entre double crochets
 ![Exemple d'un texte biffé à la vertical](images/TexteBiffeVertical.JPG)
 
+
 ## Les Tags d'HTR-united
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
 ## Licence
 Les images ne sont pas publiques; elles sont diponibles sur demande.
