@@ -242,17 +242,18 @@
                     HEIGHT="54.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_c7f022ef"
+                    TAGREFS="LT8"
                     BASELINE="316 365 1640 405" 
-                    HPOS="310.0"
-                    VPOS="293.0"
-                    WIDTH="1327.0"
-                    HEIGHT="138.0">
+                    HPOS="310"
+                    VPOS="293"
+                    WIDTH="1327"
+                    HEIGHT="138">
             <Shape><Polygon POINTS="310 389 319 399 319 402 322 402 326 402 329 402 501 392 642 412 645 412 732 399 863 418 866 418 962 405 965 405 968 405 987 421 991 421 994 421 997 421 1058 408 1064 408 1074 408 1195 428 1198 431 1633 431 1637 402 1637 341 1336 319 1333 319 1272 329 1246 332 1234 329 1195 309 1192 309 1048 306 1045 306 1042 306 997 319 978 325 952 319 908 303 904 303 901 303 898 303 895 303 876 316 863 322 828 316 751 297 748 297 681 309 652 316 633 309 601 293 597 293 594 293 313 297 313 364"/></Shape>
 	    <String CONTENT="domicilié à, Pellouchoud, Verbier, à Bagnes."
-                    HPOS="310.0"
-                    VPOS="293.0"
-                    WIDTH="1327.0"
-                    HEIGHT="138.0"></String>
+                    HPOS="310"
+                    VPOS="293"
+                    WIDTH="1327"
+                    HEIGHT="138"></String>
           </TextLine>
           <TextLine ID="eSc_line_e94a1a37"
                     TAGREFS="LT8"
@@ -353,17 +354,18 @@
                     HEIGHT="36.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_9cda65dc"
+                    TAGREFS="LT8"
                     BASELINE="1910 491 2096 495" 
-                    HPOS="1905.0"
-                    VPOS="465.0"
-                    WIDTH="189.0"
-                    HEIGHT="46.0">
+                    HPOS="1905"
+                    VPOS="465"
+                    WIDTH="189"
+                    HEIGHT="46">
             <Shape><Polygon POINTS="1905 508 2087 511 2094 492 2092 470 1910 465 1908 488"/></Shape>
 	    <String CONTENT="CAPITAL"
-                    HPOS="1905.0"
-                    VPOS="465.0"
-                    WIDTH="189.0"
-                    HEIGHT="46.0"></String>
+                    HPOS="1905"
+                    VPOS="465"
+                    WIDTH="189"
+                    HEIGHT="46"></String>
           </TextLine>
           <TextLine ID="eSc_line_3190d82f"
                     TAGREFS="LT8"
@@ -478,17 +480,18 @@
                     HEIGHT="45.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_2392844a"
+                    TAGREFS="LT8"
                     BASELINE="1212 587 1337 589" 
-                    HPOS="1208.0"
-                    VPOS="536.0"
-                    WIDTH="128.0"
-                    HEIGHT="61.0">
-            <Shape><Polygon POINTS="1307 549 1275 549 1243 549 1240 536 1211 536 1211 584 1208 597 1333 597 1336 587 1333 539 1310 536 1307 549"/></Shape>
+                    HPOS="1208"
+                    VPOS="536"
+                    WIDTH="128"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1275 549 1243 549 1240 536 1211 536 1211 584 1208 597 1333 597 1336 587 1333 539 1310 536 1307 549"/></Shape>
 	    <String CONTENT="locales"
-                    HPOS="1208.0"
-                    VPOS="536.0"
-                    WIDTH="128.0"
-                    HEIGHT="61.0"></String>
+                    HPOS="1208"
+                    VPOS="536"
+                    WIDTH="128"
+                    HEIGHT="61"></String>
           </TextLine>
           <TextLine ID="eSc_line_d970bae4"
                     TAGREFS="LT8"
@@ -729,17 +732,18 @@
                     HEIGHT="97.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_33d5699f"
+                    TAGREFS="LT269"
                     BASELINE="1957 726 2109 726" 
-                    HPOS="1956.0"
-                    VPOS="672.0"
-                    WIDTH="151.0"
-                    HEIGHT="81.0">
+                    HPOS="1956"
+                    VPOS="672"
+                    WIDTH="151"
+                    HEIGHT="81">
             <Shape><Polygon POINTS="1962 672 1956 725 1957 753 2107 750 2107 725 2107 673"/></Shape>
 	    <String CONTENT="[[13068]]"
-                    HPOS="1956.0"
-                    VPOS="672.0"
-                    WIDTH="151.0"
-                    HEIGHT="81.0"></String>
+                    HPOS="1956"
+                    VPOS="672"
+                    WIDTH="151"
+                    HEIGHT="81"></String>
           </TextLine>
           <TextLine ID="eSc_line_e3b13ad0"
                     TAGREFS="LT266"
