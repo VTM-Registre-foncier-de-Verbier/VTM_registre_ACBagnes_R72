@@ -1,2 +1,0 @@
-data/AC_Bagnes_R72_0008.xml
-data/AC_Bagnes_R72_0035.xml
