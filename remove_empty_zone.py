@@ -8,7 +8,7 @@ most of the time, empty zones are just normal mistakes. The zones are actually v
 We suggest to use this script while commenting out the removing part, in order to flag empty zones first.
 Manually check if it is or not a ghost lines, correct the lines if possible and when you cannot do otherwise, use this script.'''
 
-files_list = glob.glob(r"\\C:\Users\Christine\Documents\GitHub\Registre_foncier_de_Verbier\VTM_Depot_entrainement\VTM_Depot_entrainement\data\*.xml") #getting our list of XML files in our directory
+files_list = glob.glob(r"C:\Users\Christine\Documents\GitHub\Registre_foncier_de_Verbier\VTM_Depot_entrainement\VTM_Depot_entrainement\data\*.xml") #getting our list of XML files in our directory
 
 for file in files_list:
     tree = etree.parse(file) #parsing tree
