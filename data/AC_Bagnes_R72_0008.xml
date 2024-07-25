@@ -648,17 +648,18 @@
                     HEIGHT="78.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_8bddf805"
+                    TAGREFS="LT8"
                     BASELINE="1570 582 1647 581" 
-                    HPOS="1564.0"
-                    VPOS="534.0"
-                    WIDTH="81.0"
-                    HEIGHT="56.0">
-            <Shape><Polygon POINTS="1626 553 1595 553 1586 534 1564 534 1567 581 1567 590 1645 590 1645 578 1639 540 1626 537 1626 553"/></Shape>
+                    HPOS="1564"
+                    VPOS="534"
+                    WIDTH="81"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1595 553 1586 534 1564 534 1567 581 1567 590 1645 590 1645 578 1639 540 1626 537 1626 553"/></Shape>
 	    <String CONTENT="locale."
-                    HPOS="1564.0"
-                    VPOS="534.0"
-                    WIDTH="81.0"
-                    HEIGHT="56.0"></String>
+                    HPOS="1564"
+                    VPOS="534"
+                    WIDTH="81"
+                    HEIGHT="56"></String>
           </TextLine>
           <TextLine ID="eSc_line_d87980da"
                     TAGREFS="LT264"

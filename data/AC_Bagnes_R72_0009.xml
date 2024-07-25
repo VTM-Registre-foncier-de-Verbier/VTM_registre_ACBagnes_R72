@@ -30,17 +30,18 @@
                    TAGREFS="BT414">
           <Shape><Polygon POINTS="302 445 300 618 1458 633 2508 655 2504 486 1849 469"/></Shape>
           <TextLine ID="eSc_line_2eb87bd7"
+                    TAGREFS="LT8"
                     BASELINE="1570 558 1634 558" 
-                    HPOS="1569.0"
-                    VPOS="511.0"
-                    WIDTH="64.0"
-                    HEIGHT="70.0">
-            <Shape><Polygon POINTS="1601 533 1569 533 1569 555 1569 581 1595 581 1601 578 1605 581 1633 581 1633 555 1630 511 1601 533"/></Shape>
+                    HPOS="1569"
+                    VPOS="511"
+                    WIDTH="64"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1569 533 1569 555 1569 581 1595 581 1601 578 1605 581 1633 581 1633 555 1630 511 1601 533"/></Shape>
 	    <String CONTENT="TAXE"
-                    HPOS="1569.0"
-                    VPOS="511.0"
-                    WIDTH="64.0"
-                    HEIGHT="70.0"></String>
+                    HPOS="1569"
+                    VPOS="511"
+                    WIDTH="64"
+                    HEIGHT="70"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2201"

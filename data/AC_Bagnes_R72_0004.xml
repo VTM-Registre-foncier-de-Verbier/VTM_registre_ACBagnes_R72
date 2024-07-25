@@ -662,17 +662,18 @@
                     HEIGHT="90.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_eb56c0b2"
+                    TAGREFS="LT8"
                     BASELINE="1548 587 1630 585" 
-                    HPOS="1547.0"
-                    VPOS="540.0"
-                    WIDTH="81.0"
-                    HEIGHT="56.0">
-            <Shape><Polygon POINTS="1609 556 1578 556 1569 540 1547 540 1547 584 1547 596 1628 593 1628 584 1628 540 1612 540 1609 556"/></Shape>
+                    HPOS="1547"
+                    VPOS="540"
+                    WIDTH="81"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1578 556 1569 540 1547 540 1547 584 1547 596 1628 593 1628 584 1628 540 1612 540 1609 556"/></Shape>
 	    <String CONTENT="locale."
-                    HPOS="1547.0"
-                    VPOS="540.0"
-                    WIDTH="81.0"
-                    HEIGHT="56.0"></String>
+                    HPOS="1547"
+                    VPOS="540"
+                    WIDTH="81"
+                    HEIGHT="56"></String>
           </TextLine>
           <TextLine ID="eSc_line_f412fddd"
                     TAGREFS="LT268"
@@ -2034,17 +2035,17 @@
           </TextLine>
           <TextLine ID="eSc_line_007cdb66"
                     TAGREFS="LT8"
-                    BASELINE="1261 2249 1401 2259" 
-                    HPOS="1255.0"
-                    VPOS="2193.0"
-                    WIDTH="146.0"
-                    HEIGHT="156.0">
-            <Shape><Polygon POINTS="1364 2193 1261 2200 1261 2249 1255 2349 1395 2336 1401 2259 1401 2193 1389 2193"/></Shape>
+                    BASELINE="1261 2246 1401 2259" 
+                    HPOS="1252"
+                    VPOS="2193"
+                    WIDTH="146"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="1385 2193 1354 2193 1261 2193 1258 2243 1252 2352 1392 2315 1398 2256 1398 2193 1385 2193"/></Shape>
 	    <String CONTENT="sent: 14"
-                    HPOS="1255.0"
-                    VPOS="2193.0"
-                    WIDTH="146.0"
-                    HEIGHT="156.0"></String>
+                    HPOS="1252"
+                    VPOS="2193"
+                    WIDTH="146"
+                    HEIGHT="159"></String>
           </TextLine>
           <TextLine ID="eSc_line_a02a3b0d"
                     TAGREFS="LT269"
