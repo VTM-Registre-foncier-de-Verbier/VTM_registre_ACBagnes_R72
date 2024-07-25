@@ -133,7 +133,7 @@ transcription-guidelines: >-
 url: >-
   https://github.com/VTM-Registre-foncier-de-Verbier/VTM_Depot_entrainement/tree/main
 volume:
-- count: 179415
+- count: 179421
   metric: characters
 - count: 100
   metric: files
@@ -141,5 +141,5 @@ volume:
   metric: lines
 - count: 90
   metric: pages
-- count: 390
+- count: 405
   metric: regions
