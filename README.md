@@ -1,5 +1,5 @@
 # Dépôt d'entraînement pour des données HTR : la reconnaissance optique de caractères d'un registre manuscrit du XIXe siècle
-Ceci est un dépôt de vérité de terrain créée grâce au logiciel eScriptorium. Le document à partir duquel la vérité de terrain a été produite est un registre de la fin XIX`e` siècle. 
+Ceci est un dépôt de vérité de terrain créée grâce au logiciel eScriptorium. Le document à partir duquel la vérité de terrain a été produite est un registre de la fin XIXe siècle. 
 Il s'agit d'une étape d'un projet plus important qui consiste à utiliser la reconnaissance optique de caractères manuscrits sur l'ensemble du registre, puis à exporter les données en XML ALTO et à les annoter.
 
 
