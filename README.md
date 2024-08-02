@@ -21,7 +21,7 @@ Ce registre foncier regroupe les biens-fonds des contribuables de l'ancienne com
 
 Toutes les pages sont constituées par le même formulaire avec au sommet un titre courant imprimé et un emplacement réservé à la foliotation qui, elle, est manuscrite et s'avère en réalité une pagination. A noter qu'il existe quelques erreurs de pagination (pagination à double, saut de page, etc.). Sous le titre courant, le formulaire comporte un en-tête qui se divise en deux parties. Une partie comprend le nom et le prénom du ou de la contribuable, sa filiation et son lieu de domicile. Elle mélange l'imprimé et le manuscrit. L'autre, exclusivement imprimée, est constituée par les en-têtes des treize colonnes du formulaire qui se présentent ainsi de gauche à droite : le numéro de l’immeuble, le nom local (toponyme), la nature du bien-fonds et les quatre confins, les toises  locales, la contenance en mètres carrés, le montant de la taxe, le capital imposable en francs et en centimes et les mutations.
 
-En août 2022, la commune a fait reproduire numériquement ce registre. Les données RAW ont été converties en JPEG. Les fichiers jpg ont une résolution de 600 ppp
+En août 2022, la commune a fait reproduire numériquement ce registre. Les données RAW ont été converties en JPEG. Les fichiers jpg ont une résolution de 600 ppp.
 
 ![Exemple d'une page du formulaire](images/ACBagnesR72_0043.jpg)
 
