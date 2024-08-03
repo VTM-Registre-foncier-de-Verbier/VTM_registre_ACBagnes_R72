@@ -127,7 +127,7 @@ Pour les transcriptions [CC-BY]<a rel="license" href="http://creativecommons.org
 
 
 ## Citation
-Christine Payot, _Dépôt d'entraînement pour des données HTR : la reconnaissance optique de caractères d'un registre manuscrit du XIXe siècle_, sous la direction de Dr Simon Gabay, Université de Genève, chaire des Humanités numériques, Martigny, janvier 2024.
+Christine Payot, _Dépôt d'entraînement pour des données HTR : la reconnaissance optique de caractères d'un registre manuscrit du XIXe siècle_, sous la direction du Dr Simon Gabay, Université de Genève, chaire des Humanités numériques, Martigny, janvier 2024.
 ```bibtex
 @misc{PayotHTR2023,
     author="Payot, Christine",
