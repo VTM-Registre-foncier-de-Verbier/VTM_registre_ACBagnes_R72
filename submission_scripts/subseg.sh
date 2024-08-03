@@ -11,7 +11,7 @@ module load CUDA/11.8.0 GCCcore/11.2.0 Python/3.9.6
 source ~/kraken-env/bin/activate
 
 OUTPUT_NAME="output_name"
-XML_FOLDER="/home/users/p/payotch2/VTM_Depot_entrainement/data"
+XML_FOLDER="/home/users/p/payotch2/VTM_registre_ACBagnes_R72/data"
 
 echo "KETOS training"
 srun ketos segtrain -o $OUTPUT_NAME -f alto -d cuda:0 "${XML_FOLDER}/*.xml" --workers 4
