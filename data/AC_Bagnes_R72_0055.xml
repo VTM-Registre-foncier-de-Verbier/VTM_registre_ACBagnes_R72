@@ -44,28 +44,6 @@
                     HEIGHT="233"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3576.0"
-                   VPOS="206.0"
-                   WIDTH="427.0"
-                   HEIGHT="188.0"
-                   ID="eSc_textblock_29760588"
-                   TAGREFS="BT368">
-          <Shape><Polygon POINTS="3576 206 3576 378 4003 394 4003 214"/></Shape>
-          <TextLine ID="eSc_line_8b7a6b8c"
-                    TAGREFS="LT8"
-                    BASELINE="3549 266 4002 285" 
-                    HPOS="3538"
-                    VPOS="124"
-                    WIDTH="462"
-                    HEIGHT="207">
-            <Shape><Polygon POINTS="3538 304 3989 331 4000 282 3989 135 3934 162 3809 162 3788 141 3777 130 3777 124 3771 124 3766 124 3761 124 3543 141 3543 260"/></Shape>
-	    <String CONTENT="FOL. 55"
-                    HPOS="3538"
-                    VPOS="124"
-                    WIDTH="462"
-                    HEIGHT="207"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="354"
                    VPOS="327"
                    WIDTH="3714"
@@ -3166,13 +3144,29 @@
                     HEIGHT="141"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3576.0"
-                   VPOS="206.0"
-                   WIDTH="427.0"
-                   HEIGHT="191.0"
+        <TextBlock HPOS="3576"
+                   VPOS="206"
+                   WIDTH="431"
+                   HEIGHT="191"
                    ID="eSc_textblock_31f1b7bd"
-                   >
-          <Shape><Polygon POINTS="3576 206 3576 375 4000 397 4003 206"/></Shape>
+                   TAGREFS="BT368">
+          <Shape><Polygon POINTS="3576 206 3576 375 4000 397 4007 219"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_8b7a6b8c"
+                    TAGREFS="LT8"
+                    BASELINE="3549 266 4002 285" 
+                    HPOS="3538"
+                    VPOS="124"
+                    WIDTH="462"
+                    HEIGHT="207">
+            <Shape><Polygon POINTS="3538 304 3989 331 4000 282 3989 135 3934 162 3809 162 3788 141 3777 130 3777 124 3771 124 3766 124 3761 124 3543 141 3543 260"/></Shape>
+	    <String CONTENT="FOL. 55"
+                    HPOS="3538"
+                    VPOS="124"
+                    WIDTH="462"
+                    HEIGHT="207"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

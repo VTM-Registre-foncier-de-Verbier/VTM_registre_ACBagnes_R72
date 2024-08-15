@@ -3223,17 +3223,17 @@
           </TextLine>
           <TextLine ID="eSc_line_c1f685f4"
                     TAGREFS="LT267"
-                    BASELINE="885 6305 1597 6316" 
-                    HPOS="880"
-                    VPOS="6212"
-                    WIDTH="717"
-                    HEIGHT="152">
-            <Shape><Polygon POINTS="1195 6212 1059 6212 1048 6212 994 6212 940 6212 885 6212 885 6305 880 6337 1587 6364 1597 6316 1592 6229 1239 6218 1212 6218"/></Shape>
+                    BASELINE="906 6305 1597 6316" 
+                    HPOS="896"
+                    VPOS="6207"
+                    WIDTH="696"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="896 6343 1581 6364 1592 6310 1587 6229 902 6207 902 6299"/></Shape>
 	    <String CONTENT="Ouest idem"
-                    HPOS="880"
-                    VPOS="6212"
-                    WIDTH="717"
-                    HEIGHT="152"></String>
+                    HPOS="896"
+                    VPOS="6207"
+                    WIDTH="696"
+                    HEIGHT="157"></String>
           </TextLine>
           <TextLine ID="eSc_line_8473a620"
                     TAGREFS="LT265"
@@ -3249,14 +3249,6 @@
                     WIDTH="218"
                     HEIGHT="112"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="881.0"
-                   VPOS="6349.0"
-                   WIDTH="3.0"
-                   HEIGHT="18.0"
-                   ID="eSc_textblock_fd9d925a"
-                   >
-          <Shape><Polygon POINTS="881 6367 881 6349 884 6349 884 6367"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
