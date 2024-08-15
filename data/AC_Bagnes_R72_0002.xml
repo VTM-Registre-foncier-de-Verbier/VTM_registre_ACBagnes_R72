@@ -1992,7 +1992,7 @@
                     VPOS="2066"
                     WIDTH="288"
                     HEIGHT="72">
-            <Shape><Polygon POINTS="461 2109 458 2135 740 2138 746 2118 746 2074 461 2066 461 2109"/></Shape>
+            <Shape><Polygon POINTS="458 2135 740 2138 746 2118 746 2074 461 2066 461 2109"/></Shape>
 	    <String CONTENT="Est Un chemin"
                     HPOS="458"
                     VPOS="2066"
@@ -2048,12 +2048,26 @@
                     VPOS="2103"
                     WIDTH="559"
                     HEIGHT="110">
-            <Shape><Polygon POINTS="461 2167 458 2184 570 2204 573 2204 712 2190 737 2207 740 2207 743 2207 746 2207 749 2207 815 2190 864 2210 867 2210 870 2213 980 2213 980 2210 983 2210 985 2210 1014 2190 1017 2175 1014 2103 908 2103 905 2103 902 2103 899 2103 899 2106 876 2126 461 2118 461 2167"/></Shape>
+            <Shape><Polygon POINTS="458 2184 570 2204 573 2204 712 2190 737 2207 740 2207 743 2207 746 2207 749 2207 815 2190 864 2210 867 2210 870 2213 980 2213 980 2210 983 2210 985 2210 1014 2190 1017 2175 1014 2103 908 2103 905 2103 902 2103 899 2103 899 2106 876 2126 461 2118 461 2167"/></Shape>
 	    <String CONTENT="Sud Les hoirs de J^n. Jos: Magnin"
                     HPOS="458"
                     VPOS="2103"
                     WIDTH="559"
                     HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_00effb53"
+                    TAGREFS="LT267"
+                    BASELINE="455 2218 801 2216" 
+                    HPOS="449"
+                    VPOS="2161"
+                    WIDTH="349"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="737 2169 709 2169 680 2169 651 2169 622 2167 593 2167 565 2167 536 2167 507 2167 478 2167 475 2161 449 2161 452 2216 452 2239 792 2256 798 2213 789 2169 766 2169"/></Shape>
+	    <String CONTENT="Ouest La charrière"
+                    HPOS="449"
+                    VPOS="2161"
+                    WIDTH="349"
+                    HEIGHT="95"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="70.0"
@@ -3010,22 +3024,6 @@
                     VPOS="3181"
                     WIDTH="248"
                     HEIGHT="98"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_00effb53"
-                    TAGREFS="LT267"
-                    BASELINE="455 2218 783 2226" 
-                    HPOS="449.0"
-                    VPOS="2161.0"
-                    WIDTH="332.0"
-                    HEIGHT="80.0">
-            <Shape><Polygon POINTS="481 2167 478 2164 452 2161 452 2216 449 2233 775 2241 781 2224 775 2169 559 2175 492 2167 481 2167"/></Shape>
-	    <String CONTENT="Ouest La charrière"
-                    HPOS="449.0"
-                    VPOS="2161.0"
-                    WIDTH="332.0"
-                    HEIGHT="80.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

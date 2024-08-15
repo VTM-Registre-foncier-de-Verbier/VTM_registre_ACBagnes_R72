@@ -1444,7 +1444,7 @@
                     VPOS="1516"
                     WIDTH="81"
                     HEIGHT="122">
-            <Shape><Polygon POINTS="1342 1588 1339 1635 1414 1638 1420 1591 1417 1516 1342 1532 1342 1588"/></Shape>
+            <Shape><Polygon POINTS="1339 1635 1414 1638 1420 1591 1417 1516 1342 1532 1342 1588"/></Shape>
 	    <String CONTENT="90"
                     HPOS="1339"
                     VPOS="1516"
@@ -3094,22 +3094,6 @@
                     VPOS="3483"
                     WIDTH="554"
                     HEIGHT="125"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_abd115ba"
-                    TAGREFS="LT266"
-                    BASELINE="2382 707 2406 727" 
-                    HPOS="2324.0"
-                    VPOS="612.0"
-                    WIDTH="141.0"
-                    HEIGHT="179.0">
-            <Shape><Polygon POINTS="2380 706 2324 778 2349 791 2405 725 2465 640 2446 612 2380 706"/></Shape>
-	    <String CONTENT="191"
-                    HPOS="2324.0"
-                    VPOS="612.0"
-                    WIDTH="141.0"
-                    HEIGHT="179.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -1549,6 +1549,20 @@
                     WIDTH="619"
                     HEIGHT="103"></String>
           </TextLine>
+          <TextLine ID="eSc_line_094d796a"
+                    TAGREFS="LT268"
+                    BASELINE="246 1950 416 1947" 
+                    HPOS="242"
+                    VPOS="1880"
+                    WIDTH="173"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="245 1949 245 1966 412 1959 415 1946 408 1886 242 1880 245 1949"/></Shape>
+	    <String CONTENT="Prollier"
+                    HPOS="242"
+                    VPOS="1880"
+                    WIDTH="173"
+                    HEIGHT="86"></String>
+          </TextLine>
         </TextBlock>
         <TextBlock HPOS="84.0"
                    VPOS="1967.0"
@@ -2940,22 +2954,6 @@
                     VPOS="3756"
                     WIDTH="579"
                     HEIGHT="97"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_094d796a"
-                    TAGREFS="LT268"
-                    BASELINE="244 1961 417 1958" 
-                    HPOS="239.0"
-                    VPOS="1846.0"
-                    WIDTH="176.0"
-                    HEIGHT="210.0">
-            <Shape><Polygon POINTS="242 2056 415 2056 415 1956 408 1890 239 1846 242 1959"/></Shape>
-	    <String CONTENT="Prollier"
-                    HPOS="239.0"
-                    VPOS="1846.0"
-                    WIDTH="176.0"
-                    HEIGHT="210.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

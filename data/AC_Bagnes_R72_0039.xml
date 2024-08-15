@@ -1955,6 +1955,20 @@
                     WIDTH="483"
                     HEIGHT="146"></String>
           </TextLine>
+          <TextLine ID="eSc_line_1724fa76"
+                    TAGREFS="LT267"
+                    BASELINE="807 3667 1712 3671" 
+                    HPOS="798"
+                    VPOS="3584"
+                    WIDTH="908"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="804 3671 804 3692 1695 3698 1706 3665 1695 3589 798 3584 804 3671"/></Shape>
+	    <String CONTENT="Ouest Nicollier Jean Jos."
+                    HPOS="798"
+                    VPOS="3584"
+                    WIDTH="908"
+                    HEIGHT="114"></String>
+          </TextLine>
         </TextBlock>
         <TextBlock HPOS="3582.0"
                    VPOS="178.0"
@@ -3248,22 +3262,6 @@
                     VPOS="6169"
                     WIDTH="1066"
                     HEIGHT="261"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_1724fa76"
-                    TAGREFS="LT267"
-                    BASELINE="807 3674 1709 3688" 
-                    HPOS="798.0"
-                    VPOS="3578.0"
-                    WIDTH="908.0"
-                    HEIGHT="158.0">
-            <Shape><Polygon POINTS="798 3687 983 3725 989 3725 1206 3703 1250 3730 1255 3730 1260 3730 1266 3730 1271 3730 1385 3698 1478 3736 1483 3736 1489 3736 1701 3698 1706 3687 1701 3595 804 3578 804 3671"/></Shape>
-	    <String CONTENT="Ouest Nicollier Jean Jos."
-                    HPOS="798.0"
-                    VPOS="3578.0"
-                    WIDTH="908.0"
-                    HEIGHT="158.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

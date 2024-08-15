@@ -3115,6 +3115,20 @@
                     WIDTH="1011"
                     HEIGHT="190"></String>
           </TextLine>
+          <TextLine ID="eSc_line_bf8bed06"
+                    TAGREFS="LT267"
+                    BASELINE="910 5791 1769 5796" 
+                    HPOS="902"
+                    VPOS="5789"
+                    WIDTH="864"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="1668 5789 1614 5789 1559 5789 1505 5789 1451 5789 1396 5789 1342 5789 1288 5789 1233 5789 1179 5789 1125 5789 1070 5789 1016 5789 962 5789 907 5789 902 5810 1755 5827 1766 5794 1760 5789 1722 5789"/></Shape>
+	    <String CONTENT="Ouest Gailland Louis"
+                    HPOS="902"
+                    VPOS="5789"
+                    WIDTH="864"
+                    HEIGHT="38"></String>
+          </TextLine>
         </TextBlock>
         <TextBlock HPOS="186.0"
                    VPOS="5819.0"
@@ -3528,22 +3542,6 @@
                     VPOS="6223"
                     WIDTH="146"
                     HEIGHT="196"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_bf8bed06"
-                    TAGREFS="LT267"
-                    BASELINE="910 5791 1755 5814" 
-                    HPOS="902.0"
-                    VPOS="5691.0"
-                    WIDTH="869.0"
-                    HEIGHT="141.0">
-            <Shape><Polygon POINTS="1717 5707 1663 5702 1608 5702 1554 5702 1500 5702 1445 5696 1391 5696 1337 5696 1282 5691 1228 5691 1201 5691 902 5707 907 5789 907 5832 1771 5832 1771 5778 1760 5707 1717 5707"/></Shape>
-	    <String CONTENT="Ouest Gailland Louis"
-                    HPOS="902.0"
-                    VPOS="5691.0"
-                    WIDTH="869.0"
-                    HEIGHT="141.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

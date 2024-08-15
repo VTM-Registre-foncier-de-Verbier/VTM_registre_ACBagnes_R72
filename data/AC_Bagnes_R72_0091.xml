@@ -3320,22 +3320,6 @@
                     HEIGHT="184"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_ee29a79b"
-                    TAGREFS="LT263"
-                    BASELINE="2246 4225 2437 4217" 
-                    HPOS="2239.0"
-                    VPOS="4122.0"
-                    WIDTH="195.0"
-                    HEIGHT="130.0">
-            <Shape><Polygon POINTS="2244 4219 2244 4252 2429 4241 2434 4214 2418 4122 2239 4132 2244 4219"/></Shape>
-	    <String CONTENT="131236"
-                    HPOS="2239.0"
-                    VPOS="4122.0"
-                    WIDTH="195.0"
-                    HEIGHT="130.0"></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
