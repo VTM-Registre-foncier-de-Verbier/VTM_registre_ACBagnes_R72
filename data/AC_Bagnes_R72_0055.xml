@@ -44,6 +44,28 @@
                     HEIGHT="233"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="3576"
+                   VPOS="215"
+                   WIDTH="433"
+                   HEIGHT="182"
+                   ID="eSc_textblock_31f1b7bd"
+                   TAGREFS="BT368">
+          <Shape><Polygon POINTS="3581 215 3576 375 4000 397 4009 222"/></Shape>
+          <TextLine ID="eSc_line_8b7a6b8c"
+                    TAGREFS="LT8"
+                    BASELINE="3589 283 4002 285" 
+                    HPOS="3587"
+                    VPOS="130"
+                    WIDTH="413"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="3587 282 3587 320 3994 336 4000 282 3983 130 3940 157 3587 135 3587 282"/></Shape>
+	    <String CONTENT="FOL. 55"
+                    HPOS="3587"
+                    VPOS="130"
+                    WIDTH="413"
+                    HEIGHT="206"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="354"
                    VPOS="327"
                    WIDTH="3714"
@@ -3142,30 +3164,6 @@
                     VPOS="6278"
                     WIDTH="185"
                     HEIGHT="141"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3576"
-                   VPOS="206"
-                   WIDTH="431"
-                   HEIGHT="191"
-                   ID="eSc_textblock_31f1b7bd"
-                   TAGREFS="BT368">
-          <Shape><Polygon POINTS="3576 206 3576 375 4000 397 4007 219"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_8b7a6b8c"
-                    TAGREFS="LT8"
-                    BASELINE="3549 266 4002 285" 
-                    HPOS="3538"
-                    VPOS="124"
-                    WIDTH="462"
-                    HEIGHT="207">
-            <Shape><Polygon POINTS="3538 304 3989 331 4000 282 3989 135 3934 162 3809 162 3788 141 3777 130 3777 124 3771 124 3766 124 3761 124 3543 141 3543 260"/></Shape>
-	    <String CONTENT="FOL. 55"
-                    HPOS="3538"
-                    VPOS="124"
-                    WIDTH="462"
-                    HEIGHT="207"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
