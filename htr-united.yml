@@ -11,73 +11,88 @@ automatically-aligned: false
 characters:
   members:
   - e
+  - o
   - r
   - i
-  - o
   - l
   - s
-  - d
   - a
   - u
-  - t
+  - d
   - n
+  - t
   - '0'
-  - '3'
-  - '5'
-  - c
-  - '4'
-  - '2'
-  - E
-  - P
-  - '7'
   - '1'
-  - M
-  - h
-  - '6'
-  - S
-  - N
+  - '2'
+  - c
   - .
+  - '3'
+  - E
+  - M
+  - '4'
+  - '5'
+  - S
   - '9'
+  - N
+  - '6'
+  - P
   - f
-  - O
-  - C
-  - m
+  - h
   - '8'
-  - ́
-  - L
+  - O
   - A
-  - p
-  - v
-  - I
-  - T
-  - J
-  - D
-  - ^
-  - g
-  - U
-  - B
-  - F
-  - ̀
-  - R
-  - b
-  - z
-  - G
-  - y
-  - "'"
-  - V
-  - '-'
-  - X
-  - Z
-  - x
-  - ','
-  - '"'
-  - ̂
+  - m
   - '['
   - ']'
-  - ̧
+  - '7'
+  - ́
+  - L
+  - C
+  - T
+  - v
+  - D
+  - p
+  - I
+  - B
+  - J
+  - b
+  - F
+  - g
+  - ^
+  - R
+  - z
+  - y
   - ':'
+  - U
+  - V
+  - G
+  - ̀
+  - "'"
+  - x
+  - '-'
+  - X
+  - '"'
+  - ̧
+  - ̂
+  - ','
+  - q
+  - /
+  - )
+  - Z
+  - °
+  - j
+  - H
+  - (
+  - '?'
+  - '='
+  - _
+  - ̄
+  - k
   - <
   - '>'
+  - ¨
+  -  
+  - ;
   mode: NFD
 citation-file-link: >-
   https://github.com/VTM-Registre-foncier-de-Verbier/VTM_Depot_entrainement/blob/main/CITATION.cff
@@ -118,13 +133,13 @@ transcription-guidelines: >-
 url: >-
   https://github.com/VTM-Registre-foncier-de-Verbier/VTM_Depot_entrainement/tree/main
 volume:
-- count: 3545
+- count: 179421
   metric: characters
-- count: 2
+- count: 100
   metric: files
-- count: 413
+- count: 20070
   metric: lines
 - count: 90
   metric: pages
-- count: 12
+- count: 1516
   metric: regions
