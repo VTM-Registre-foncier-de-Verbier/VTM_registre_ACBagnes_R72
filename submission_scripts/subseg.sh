@@ -1,6 +1,6 @@
 #!/bin/env bash
 #SBATCH --partition=shared-gpu
-#SBATCH --time=02:00:00
+#SBATCH --time=01:00:00
 #SBATCH --gpus=1
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=12GB
@@ -14,4 +14,4 @@ OUTPUT_NAME="output_name"
 XML_FOLDER="/home/users/p/payotch2/VTM_registre_ACBagnes_R72/data"
 
 echo "KETOS training"
-srun ketos segtrain -o $OUTPUT_NAME -f alto -d cuda:0 "${XML_FOLDER}/*.xml" --workers 4
+srun ketos segtrain -o $OUTPUT_NAME -f alto -d cuda:0 "${XML_FOLDER}/*.xml" --workers 0

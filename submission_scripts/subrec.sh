@@ -1,6 +1,6 @@
 #!/bin/env bash
 #SBATCH --partition=shared-gpu
-#SBATCH --time=02:00:00
+#SBATCH --time=01:00:00
 #SBATCH --gpus=1
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=12GB
