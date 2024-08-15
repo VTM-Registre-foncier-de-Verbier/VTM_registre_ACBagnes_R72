@@ -558,6 +558,28 @@
                     HEIGHT="96"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="899"
+                   VPOS="128"
+                   WIDTH="2628"
+                   HEIGHT="126"
+                   ID="eSc_textblock_23488543"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="899 128 899 254 3527 254 3527 128"/></Shape>
+          <TextLine ID="eSc_line_622ed65d"
+                    TAGREFS="LT260"
+                    BASELINE="914 228 3525 201" 
+                    HPOS="909"
+                    VPOS="15"
+                    WIDTH="2616"
+                    HEIGHT="245">
+            <Shape><Polygon POINTS="914 260 3525 228 3525 201 3515 37 2472 15 2467 15 2222 21 2217 21 2212 21 2164 63 2143 79 909 85 914 228"/></Shape>
+	    <String CONTENT="REGISTRE DE L&#x27;IMPOT SUR LES BIENS-FONDS."
+                    HPOS="909"
+                    VPOS="15"
+                    WIDTH="2616"
+                    HEIGHT="245"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="272.0"
                    VPOS="1025.0"
                    WIDTH="3850.0"
@@ -3464,30 +3486,6 @@
                     VPOS="5814"
                     WIDTH="500"
                     HEIGHT="149"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="899"
-                   VPOS="128"
-                   WIDTH="2628"
-                   HEIGHT="126"
-                   ID="eSc_textblock_23488543"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="899 128 899 254 3527 254 3527 128"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_622ed65d"
-                    TAGREFS="LT260"
-                    BASELINE="914 228 3525 201" 
-                    HPOS="909"
-                    VPOS="15"
-                    WIDTH="2616"
-                    HEIGHT="245">
-            <Shape><Polygon POINTS="914 260 3525 228 3525 201 3515 37 2472 15 2467 15 2222 21 2217 21 2212 21 2164 63 2143 79 909 85 914 228"/></Shape>
-	    <String CONTENT="REGISTRE DE L&#x27;IMPOT SUR LES BIENS-FONDS."
-                    HPOS="909"
-                    VPOS="15"
-                    WIDTH="2616"
-                    HEIGHT="245"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
