@@ -1,0 +1,6 @@
+data/AC_Bagnes_R72_0097.xml
+data/AC_Bagnes_R72_0047.xml
+data/AC_Bagnes_R72_0049.xml
+data/AC_Bagnes_R72_0014.xml
+data/AC_Bagnes_R72_0020.xml
+data/AC_Bagnes_R72_0026.xml
