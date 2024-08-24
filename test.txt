@@ -1,6 +1,0 @@
-AC_Bagnes_R72_0002.xml
-AC_Bagnes_R72_0050.xml
-AC_Bagnes_R72_0053.xml
-AC_Bagnes_R72_0055.xml
-AC_Bagnes_R72_0072.xml
-AC_Bagnes_R72_0095.xml
