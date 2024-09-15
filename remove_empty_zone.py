@@ -2,6 +2,7 @@ import glob
 import os
 from lxml import etree
 
+#Script développé par Thibault Maillard
 '''This script removes empty zone. Sometimes, ghost zones are created using eScriptorium. Those can be hard to find.
 In that case, it might be good to use this script. Pay attention though that it will remove all empty zone and
 most of the time, empty zones are just normal mistakes. The zones are actually visible.
