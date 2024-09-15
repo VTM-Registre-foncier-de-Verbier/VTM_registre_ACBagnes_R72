@@ -76,6 +76,9 @@ Le fichier randomXML permet une répartition aléatoire des fichiers XML en troi
 
 Le fichier remove_empy_zone.py supprime les zones vides. Parfois, dans eScriptorium, lors de la segmentation et de la transcription, des zones fantômes sont créées par inadvertance. Extrêmement petites, celles-ci peuvent être impossibles à détecter à l'oeil nu.
 
+Le fichier extraction.py sert à extraire les données des fichiers XML générés par eScriptorium.
+
+Les deux fichiers qui sont dans le dossier submission_script servent à demander aux HPC de Genève d'entraîner les modèles.
 
 
 ## Les Tags d'HTR-united
