@@ -1,0 +1,29 @@
+#map {
+    height: 600px;
+}
+
+.leaflet-marker-icon.selectedMarker {
+    border: 1px solid gold;
+    color: #BA183E;
+}
+
+.ui-slider-handle{
+    width: 20px !important;
+}
+
+.ui-slider-horizontal {
+    height: 1.3em;
+    color:#BA183E
+}
+
+.ui-slider-range{
+    background: #a3a3a3;
+}
+
+.ui-slider .ui-slider-handle { height: 1.3em; }
+.ui-slider-horizontal .ui-slider-handle { top: -0.08em; }
+
+div.hidden
+{
+   display: none
+}

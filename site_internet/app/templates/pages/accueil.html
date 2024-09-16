@@ -1,0 +1,170 @@
+{% extends "base.html" %}
+
+{%block titre %} | Accueil{%endblock%}
+{% block content %}
+
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center">
+      <div
+        class="container position-relative"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
+        <div class="row justify-content-center">
+          <div class="col-xl-7 col-lg-9 text-center">
+            <h1>Verbier Time Machine</h1>
+            <h2>Toponyme cadastre</h2>
+          </div>
+        </div>
+        <div class="text-center">
+          <a href="#carte" class="btn-get-started scrollto"
+            >Explorer la carte</a
+          >
+        </div>
+      </div>
+    </section>
+    <!-- End Hero -->
+
+    <main id="main">
+      <!-- ======= recherche Section ======= -->
+      <section id="recherche" class="recherche">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Recherche</h2>
+            <h5>Toponyme</h5>
+             <form class="form-inline" action="{{url_for('resultatavance')}}" method="GET">
+                                <input class="form-control" name="motclef" type="search" placeholder="Recherche rapide" aria-label="Recherche">
+                                <button class="styled" type="submit">Rechercher</button>
+                            </form>
+
+          </div>
+        </div>
+      </section>
+      <!-- End recherche Section -->
+      <!-- Section resultat -->
+
+
+
+
+      <!-- ======= carte Section ======= -->
+      <section id="carte" class="carte section-bg">
+        <div class="container">
+          <div class="row">
+              <div class="col-8 mt-2">
+              <div id="map">
+
+
+              <script> var map = L.map('map').setView([46.0994412,7.2251031], 13);
+
+                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                    }).addTo(map);
+                    </script>
+                    {% if resultats %}
+<script>
+                     {% for result in resultats%}
+
+                     L.marker([{{result.coordi.lat}},{{ result.coordi.lng}}]).addTo(map)
+                    .bindPopup('{{result.toponyme}}')
+                    .openPopup();
+                    {% endfor%}
+    </script>
+                </div>
+              </div>
+            <div class="col-4 mt-2">
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th scope="col">Toponyme</th>
+                      <th scope="col">Toponyme patois</th>
+                      <th scope="col">audio</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                   {% for result in resultats%}
+                            {% if loop.index<=1 %}
+                  <tr>
+                  <td>{{result.toponyme}}</td>
+                  <td>{{result.topo.real}}</td>
+                  <td>
+                       {% if result.topo.path != None %}
+                      <audio controls>
+                      <source src="static/assets/audios/{{result.topo.path}}" type="audio/mp3"></audio>
+                     {% endif %}
+
+                  </td>
+
+                    </tr>
+                   {% endif %}
+                  {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+               {% endif%}
+            </div>
+          </div>
+      </section>
+      <!-- End carte Section -->
+
+      <!-- ======= recherche data Section ======= -->
+      <section id="additional-data" class="additional-data">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 mt-2">
+
+                {% if resultats %}
+                <h2>Données complémentaires</h2>
+
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th scope="col">Contribuable</th>
+                      <th scope="col">Numéro de parcelle</th>
+                      <th scope="col">Type de terrain</th>
+                      <th scope="col">Cote</th>
+                      <th scope="col">Folio</th>
+                    </tr>
+                  </thead>
+                  <tbody id="owner_table">
+                  {% for result in resultats%}
+                  <tr>
+                  <td>{{result.contribuable}}</td>
+                  <td>{{result.numero_parcelle}}</td>
+                    <td>{{result.type_terrain}}</td>
+                    <td>{{result.cote}}</td>
+                    <td><a href="static/assets/img/AC_Bagnes_R72_00{{result.imgnumber}}.jpg">{{result.folio}}</a></td>
+                    </tr>
+                  {% endfor %}
+                </table>
+                {% endif%}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12 mt-2">
+                  <h2>
+                    Renseignements complémentaires
+                  </h2>
+                  <div>
+                            {% for result in resultats%}
+                            {% if loop.index<=1 %}
+                        <p>{{result.topo.commentaire}}</p>
+                            {% endif%}
+                        {% endfor %}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <!-- End #main -->
+
+  {% if scrollToAnchor %}
+<script>
+    document.getElementById('carte').scrollIntoView({behavior: 'smooth'});
+</script>
+{% endif %}
+
+{% endblock %}
